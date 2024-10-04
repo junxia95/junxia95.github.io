@@ -10,7 +10,7 @@ redirect_from:
 I'm a  postdoc research from [Department of Computer Science and Engineering] , [University of Notre Dame].
  My research interest includes Efficient Cloud-Edge Learning, Trustworthy AI, Group Fairness.
 
-I am very fortunate to be advised by [Prof. Yiyu Shi](https://www3.nd.edu/~scl/) of SCL Lab from [Department of Computer Science and Engineering],  University of Notre Dame. I was advised by [Prof. Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms_en/main.psp) from [School of Software Engineering],  East China Normal University.
+I am very fortunate to be advised by [Prof. Yiyu Shi](https://www3.nd.edu/~scl/) of SCL Lab from Department of Computer Science and Engineering,  University of Notre Dame. I was advised by [Prof. Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms_en/main.psp) from School of Software Engineering,  East China Normal University.
 
 You can find my CV here: [Jun Xia's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
