@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Xia is currently a Postdoctoral Research Associate at University of Notre Dame from 2023 (supervised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan) and Hainan University in 2016 and 2019, respectively.
+Jun Xia is currently a Postdoctoral Research Associate at University of Notre Dame from 2023 (supervised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2016 and 2019, respectively.
 
 His research interest includes Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
@@ -132,16 +132,16 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 - *2021.06* Outstanding Student (ECNU) 
 
 # 📖 Educations
-- *2023.09 - 2026.09 (Expected)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Yiyu Shi.
-- *2019.09 - 2023.06 (PhD)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. Supervisor: Mingsong Chen. 
-- *2016.09 - 2019.06 (Master)*, Jiangnan University, Department of Internet of Things, Computer Science. Supervisor: Zhilei Chai.
+- *2023.09 - 2026.09 (Expected)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Prof. Yiyu Shi.
+- *2019.09 - 2023.06 (PhD)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. Supervisor: Prof. Mingsong Chen. 
+- *2016.09 - 2019.06 (Master)*, Jiangnan University, Department of Internet of Things, Computer Science. Supervisor: Prof. Zhilei Chai.
 
 
 # 💬 Invited Talks
 - *2022.12*, East China Normal University. 
 
 # 💻 Research Internships
-- *2016.12 - 2019.06*, Peaking University. Supervisor: Wei Yan.
+- *2016.12 - 2019.06*, Peaking University. Supervisor: Prof. Wei Yan.
 
 # 📖 Teachings
 - *2025 Spring*, **Official Instructor** (Experimental Part), CSE 60685, University of Notre Dame
