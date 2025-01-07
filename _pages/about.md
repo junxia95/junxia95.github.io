@@ -82,7 +82,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2022</div><img src='images/TCAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PervasiveFL: Pervasive federated learning for heterogeneous IoT systems](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Journal, CCF-A iter, Acceptance Ratio: 23%)
