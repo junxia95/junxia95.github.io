@@ -136,3 +136,7 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 
 # 💻 Research Internships
 - *2016.12 - 2019.06*, Peaking University. Supervisor: Wei Yan.
+
+# 📖 Teaching
+- *2025 Spring*, Official Instructor (Experimental Part), CSE 60685, University of Notre Dame
+- *2024 Spring*, TA, CSE 60685, University of Notre Dame
