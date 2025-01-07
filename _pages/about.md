@@ -94,7 +94,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm-mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/acm-mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Conference, CCF-A iter,, Acceptance Ratio: 25%)
@@ -127,12 +127,12 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 
 # 📖 Educations
 - *2023.09 - 2025.09 (excepted)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Yiyu Shi.
-- *2019.09 - 2023.06 (PhD)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating, Advisor: Mingsong Chen. 
-- *2016.09 - 2019.06 (Master)*, Jiangnan University, Department of Internet of Things, Computer Science.
+- *2019.09 - 2023.06 (PhD)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. Supervisor: Mingsong Chen. 
+- *2016.09 - 2019.06 (Master)*, Jiangnan University, Department of Internet of Things, Computer Science. Supervisor: Zhilei Chai.
 
 
 # 💬 Invited Talks
 - *2022.12*, East China Normal University. 
 
 # 💻 Research Internships
-- *2016.12 - 2019.06*, Peaking University, Advisor: Wei Yan.
+- *2016.12 - 2019.06*, Peaking University. Supervisor: Wei Yan.
