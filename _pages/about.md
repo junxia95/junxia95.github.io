@@ -132,7 +132,7 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 - *2021.06* Outstanding Student (ECNU) 
 
 # 📖 Educations
-- *2023.09 - 2025.09 (Expected)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Yiyu Shi.
+- *2023.09 - 2026.09 (Expected)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Yiyu Shi.
 - *2019.09 - 2023.06 (PhD)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. Supervisor: Mingsong Chen. 
 - *2016.09 - 2019.06 (Master)*, Jiangnan University, Department of Internet of Things, Computer Science. Supervisor: Zhilei Chai.
 
