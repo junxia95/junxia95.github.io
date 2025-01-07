@@ -30,7 +30,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by ICCAD 2024.
 - *2024.02*: &nbsp;🎉🎉 A paper is accepted by DAC 2024.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
