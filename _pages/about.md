@@ -19,18 +19,20 @@ redirect_from:
 
 Jun Xia is currently a Postdoctoral Research Associate at University of Notre Dame from 2023 (supervised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Wei Yan) and Hainan University in 2016 and 2019, respectively.
 
-His research interest includes Heterogeneous On-device Federated Learning and Trustworthy AI. He has 
-% She is primarily devoted to integrating artificial intelligence with signal processing techniques to create innovative applications. Her work places a significant emphasis on system implementation and validation in real-world scenarios, with a focus on ensuring user-friendliness and practicality.
+His research interest includes Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 A NAIRR is funded by NSF (cash equivalent $98,400).
+- *2024.12*: &nbsp;🎉🎉 A paper is accepted by T-SUSC 2024. 
+- *2024.12*: &nbsp;🎉🎉 A paper is accepted by DATE 2025. 
 - *2024.09*: &nbsp;🎉🎉 A paper is accepted by NeurIPS 2024. 
 - *2024.07*: &nbsp;🎉🎉 A paper is accepted by ICCAD 2024.
 - *2024.02*: &nbsp;🎉🎉 A paper is accepted by DAC 2024.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/neurips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks](https://arxiv.org/abs/2310.11595)(Machine Learning Top Conference, Acceptance Ratio: 25%)
@@ -43,7 +45,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/iccad2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client](https://arxiv.org/abs/2405.08183)(EDA Top Conference, Acceptance Ratio: 24%)
@@ -51,10 +53,22 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 **Jun Xia**, Yi Zhang, Yiyu Shi
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We consider the energy constraints in both clients and heterogeneous deep learning models to enable energy-efficient FL.
+- We propose an energy-aware FL framework named DR-FL, which considers the energy constraints in both clients and heterogeneous deep learning models to enable energy-efficient FL. Unlike Vanilla FL, DR-FL adopts our proposed Muti-Agents Reinforcement Learning (MARL)-based dual-selection method, which allows participated devices to make contributions to the global model effectively and adaptively based on their computing capabilities and energy capacities in a MARL-based manner. Experiments conducted with various widely recognized datasets demonstrate that DR-FL has the capability to optimize the exchange of knowledge among diverse models in large-scale AIoT systems while adhering to energy limitations. Additionally, it improves the performance of each individual heterogeneous device's model.
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/iccad2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Eliminating backdoor triggers for deep neural networks using attention relation graph distillation](https://arxiv.org/abs/2405.08183)(AI Top Conference, Acceptance Ratio: 14%)
+
+**Jun Xia**, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we introduce a novel backdoor defense framework named Attention Relation Graph Distillation (ARGD), which fully explores the correlation among attention features with different orders using our proposed Attention Relation Graphs (ARGs). Based on the alignment of ARGs between both teacher and student models during knowledge distillation, ARGD can eradicate more backdoor triggers than NAD. Comprehensive experimental results show that, against six latest backdoor attacks, ARGD outperforms NAD by up to 94.85% reduction in ASR, while ACC can be improved by up to 3.23%.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,20 +82,45 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[PervasiveFL: Pervasive federated learning for heterogeneous IoT systems]
+(https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Conference, Acceptance Ratio: 23%)
+
+**Jun Xia**, Tian Liu, Zhiwei Ling, Ting Wang, Xin Fu, Mingsong Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- we propose a novel framework named PervasiveFL that enables efficient and effective FL among heterogeneous IoT devices. Without modifying original local models, PervasiveFL installs one lightweight NN model named modellet on each device. By using the deep mutual learning (DML) and our entropy-based decision gating (EDG) method, modellets and local models can selectively learn from each other through soft labels.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2022</div><img src='images/acm-mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)(Multi-Media Top Conference, Acceptance Ratio: 25%)
+
+Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we propose a novel two-stage backdoor defense method, named MCLDef, based on Model-Contrastive Learning (MCL). MCLDef can purify the backdoored model by pulling the feature representations of poisoned data towards those of their clean data counterparts.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (First Year, Cash Equivalent $98,400. Hope to see you in Washington, 2025.2.19 - 2.21).  
+- *2023.03* China National Scholarship ($7500)
+- *2023.06* Shanghai Outstanding Graduates
+- *2022.06* PhD Outstanding Program (ECNU) PI ($7500)
+- *2021.06* Outstanding Student (ECNU) 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2023.06 (now)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. 
+- *2016.09 - 2019.06*, Jiangnan University, Department of Internet of Things, Computer Science.
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.12*, East China Normal University. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Internships
+- *2016.12 - 2019.06*, Peaking University, China.
