@@ -35,7 +35,8 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks](https://arxiv.org/abs/2310.11595)(Machine Learning Top Conference, CCF-A iter, Acceptance Ratio: 25%)
+[WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks](https://arxiv.org/abs/2310.11595)
+(Machine Learning Top Conference, CCF-A iter, Acceptance Ratio: 25%)
 
 **Jun Xia**, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, Mingsong Chen
 
@@ -48,7 +49,8 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/ICCAD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client](https://arxiv.org/abs/2405.08183)(EDA Top Conference, CCF-B iter, Acceptance Ratio: 24%)
+[Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client](https://arxiv.org/abs/2405.08183)
+(EDA Top Conference, CCF-B iter, Acceptance Ratio: 24%)
 
 **Jun Xia**, Yi Zhang, Yiyu Shi
 
@@ -61,7 +63,8 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Eliminating backdoor triggers for deep neural networks using attention relation graph distillation](https://arxiv.org/pdf/2204.09975)(AI Top Conference, CCF-A iter, Acceptance Ratio: 14%)
+[Eliminating backdoor triggers for deep neural networks using attention relation graph distillation](https://arxiv.org/pdf/2204.09975)
+(AI Top Conference, CCF-A iter, Acceptance Ratio: 14%)
 
 **Jun Xia**, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen
 
@@ -73,7 +76,8 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2022</div><img src='images/DAC2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Accelerated synthesis of neural network-based barrier certificates using collaborative learning](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Conference, CCF-A iter, Acceptance Ratio: 23%)
+[Accelerated synthesis of neural network-based barrier certificates using collaborative learning](https://dl.acm.org/doi/10.1145/3489517.3530608)
+(EDA Top Conference, CCF-A iter, Acceptance Ratio: 23%)
 
 **Jun Xia**, Ming Hu, Xin Chen, Mingsong Chen
 
@@ -85,7 +89,8 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2022</div><img src='images/TCAD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PervasiveFL: Pervasive federated learning for heterogeneous IoT systems](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Journal, CCF-A iter, Acceptance Ratio: 23%)
+[PervasiveFL: Pervasive federated learning for heterogeneous IoT systems](https://dl.acm.org/doi/10.1145/3489517.3530608)
+(EDA Top Journal, CCF-A iter, Acceptance Ratio: 23%)
 
 **Jun Xia**, Tian Liu, Zhiwei Ling, Ting Wang, Xin Fu, Mingsong Chen
 
@@ -109,7 +114,8 @@ Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/ACMMM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)(Multi-Media Top Conference, CCF-A iter, Acceptance Ratio: 25%)
+[Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)
+(Multi-Media Top Conference, CCF-A iter, Acceptance Ratio: 25%)
 
 Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen
 
@@ -119,14 +125,14 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 </div>
 
 # 🎖 Honors and Awards
-- *2024.12* The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI; First Year; Cash Equivalent $98,400; Hope to see you in Washington, 2025.2.19 - 2.21).  
+- *2024.12* The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI; First Year; Cash Equivalent **$98,400**; Hope to see you in Washington, 2025.2.19 - 2.21).  
 - *2023.03* China National Scholarship ($4280)
 - *2023.06* Shanghai Outstanding Graduates
 - *2022.06* PhD Outstanding Program (ECNU) PI ($4280)
 - *2021.06* Outstanding Student (ECNU) 
 
 # 📖 Educations
-- *2023.09 - 2025.09 (excepted)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Yiyu Shi.
+- *2023.09 - 2025.09 (Expected)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Yiyu Shi.
 - *2019.09 - 2023.06 (PhD)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. Supervisor: Mingsong Chen. 
 - *2016.09 - 2019.06 (Master)*, Jiangnan University, Department of Internet of Things, Computer Science. Supervisor: Zhilei Chai.
 
@@ -138,5 +144,5 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 - *2016.12 - 2019.06*, Peaking University. Supervisor: Wei Yan.
 
 # 📖 Teachings
-- *2025 Spring*, Official Instructor (Experimental Part), CSE 60685, University of Notre Dame
+- *2025 Spring*, **Official Instructor** (Experimental Part), CSE 60685, University of Notre Dame
 - *2024 Spring*, TA, CSE 60685, University of Notre Dame
