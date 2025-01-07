@@ -53,7 +53,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 **Jun Xia**, Yi Zhang, Yiyu Shi
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose an energy-aware FL framework named DR-FL, which considers the energy constraints in both clients and heterogeneous deep learning models to enable energy-efficient FL. Unlike Vanilla FL, DR-FL adopts our proposed Muti-Agents Reinforcement Learning (MARL)-based dual-selection method, which allows participated devices to make contributions to the global model effectively and adaptively based on their computing capabilities and energy capacities in a MARL-based manner. Experiments conducted with various widely recognized datasets demonstrate that DR-FL has the capability to optimize the exchange of knowledge among diverse models in large-scale AIoT systems while adhering to energy limitations. Additionally, it improves the performance of each individual heterogeneous device's model.
+- We propose an energy-aware FL framework named DR-FL, which considers the energy constraints in both clients and heterogeneous deep learning models to enable energy-efficient FL. Unlike Vanilla FL, DR-FL adopts our proposed Muti-Agents Reinforcement Learning (MARL)-based dual-selection method, which allows participated devices to make contributions to the global model effectively and adaptively based on their computing capabilities and energy capacities in a MARL-based manner. 
 </div>
 </div>
 
@@ -66,7 +66,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 **Jun Xia**, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we introduce a novel backdoor defense framework named Attention Relation Graph Distillation (ARGD), which fully explores the correlation among attention features with different orders using our proposed Attention Relation Graphs (ARGs). Based on the alignment of ARGs between both teacher and student models during knowledge distillation, ARGD can eradicate more backdoor triggers than NAD. Comprehensive experimental results show that, against six latest backdoor attacks, ARGD outperforms NAD by up to 94.85% reduction in ASR, while ACC can be improved by up to 3.23%.
+- We introduce a novel backdoor defense framework named Attention Relation Graph Distillation (ARGD), which fully explores the correlation among attention features with different orders using our proposed Attention Relation Graphs (ARGs). Based on the alignment of ARGs between both teacher and student models during knowledge distillation, ARGD can eradicate more backdoor triggers than NAD. 
 </div>
 </div>
 
