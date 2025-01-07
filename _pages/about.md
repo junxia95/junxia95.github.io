@@ -58,7 +58,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/iccad2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/iccad2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Eliminating backdoor triggers for deep neural networks using attention relation graph distillation](https://arxiv.org/abs/2405.08183)(AI Top Conference, Acceptance Ratio: 14%)
@@ -82,7 +82,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PervasiveFL: Pervasive federated learning for heterogeneous IoT systems]
@@ -95,7 +95,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2022</div><img src='images/acm-mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm-mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)(Multi-Media Top Conference, Acceptance Ratio: 25%)
@@ -108,13 +108,14 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 </div>
 
 # 🎖 Honors and Awards
-- *2024.12* The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (First Year, Cash Equivalent $98,400. Hope to see you in Washington, 2025.2.19 - 2.21).  
+- *2024.12* The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI; First Year; Cash Equivalent $98,400; Hope to see you in Washington, 2025.2.19 - 2.21).  
 - *2023.03* China National Scholarship ($7500)
 - *2023.06* Shanghai Outstanding Graduates
 - *2022.06* PhD Outstanding Program (ECNU) PI ($7500)
 - *2021.06* Outstanding Student (ECNU) 
 
 # 📖 Educations
+- *2023.09 - 2025.09 (excepted)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow.
 - *2019.09 - 2023.06 (now)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. 
 - *2016.09 - 2019.06*, Jiangnan University, Department of Internet of Things, Computer Science.
 
