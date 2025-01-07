@@ -32,7 +32,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/neurips2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks](https://arxiv.org/abs/2310.11595)(Machine Learning Top Conference, CCF-A iter, Acceptance Ratio: 25%)
@@ -45,7 +45,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/iccad2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/ICCAD2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client](https://arxiv.org/abs/2405.08183)(EDA Top Conference, CCF-B iter, Acceptance Ratio: 24%)
@@ -58,7 +58,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/iccad2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/IJCAI2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Eliminating backdoor triggers for deep neural networks using attention relation graph distillation](https://arxiv.org/pdf/2204.09975)(AI Top Conference, CCF-A iter, Acceptance Ratio: 14%)
@@ -70,7 +70,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2022</div><img src='images/DAC2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerated synthesis of neural network-based barrier certificates using collaborative learning](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Conference, CCF-A iter, Acceptance Ratio: 23%)
@@ -82,7 +82,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2022</div><img src='images/TCAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAD 2022</div><img src='images/TCAD2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PervasiveFL: Pervasive federated learning for heterogeneous IoT systems](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Journal, CCF-A iter, Acceptance Ratio: 23%)
@@ -94,7 +94,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/acm-mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/DAC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Conference, CCF-A iter,, Acceptance Ratio: 25%)
@@ -106,7 +106,7 @@ Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm-mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/ACMMM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)(Multi-Media Top Conference, CCF-A iter, Acceptance Ratio: 25%)
