@@ -39,7 +39,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 
 **Jun Xia**, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, Mingsong Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K4JXEHUAAAAJ&sortby=pubdate&citation_for_view=K4JXEHUAAAAJ:0EnyYjriUFMC)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We obtain image high-frequency features through Discrete Wavelet Transform (DWT) to generate backdoor triggers.
 </div>
 </div>
@@ -52,7 +52,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 
 **Jun Xia**, Yi Zhang, Yiyu Shi
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K4JXEHUAAAAJ&sortby=pubdate&citation_for_view=K4JXEHUAAAAJ:Wp0gIr-vW9MC)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose an energy-aware FL framework named DR-FL, which considers the energy constraints in both clients and heterogeneous deep learning models to enable energy-efficient FL. Unlike Vanilla FL, DR-FL adopts our proposed Muti-Agents Reinforcement Learning (MARL)-based dual-selection method, which allows participated devices to make contributions to the global model effectively and adaptively based on their computing capabilities and energy capacities in a MARL-based manner. 
 </div>
 </div>
@@ -97,7 +97,19 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm-mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)(Multi-Media Top Conference, CCF-A iter,, Acceptance Ratio: 25%)
+[Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Conference, CCF-A iter,, Acceptance Ratio: 25%)
+
+Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=K4JXEHUAAAAJ&sortby=pubdate&authuser=2&citation_for_view=K4JXEHUAAAAJ:Zph67rFs4hoC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we propose a novel framework to select and store the most representative data online in a self-supervised way. Such data has a small memory footprint and allows infrequent requests of user annotations for further fine-tuning.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/acm-mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)(Multi-Media Top Conference, CCF-A iter, Acceptance Ratio: 25%)
 
 Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen
 
