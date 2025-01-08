@@ -36,7 +36,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box-text' markdown="1">
 
 [WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks](https://arxiv.org/abs/2310.11595)
-(Machine Learning Top Conference, CCF-A iter, Acceptance Ratio: 25%)
+(Machine Learning Top Conference, CCF-A, Acceptance Ratio: 25%)
 
 **Jun Xia**, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, Mingsong Chen
 
@@ -50,7 +50,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box-text' markdown="1">
 
 [Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client](https://arxiv.org/abs/2405.08183)
-(EDA Top Conference, CCF-B iter, Acceptance Ratio: 24%)
+(EDA Top Conference, CCF-B, Acceptance Ratio: 24%)
 
 **Jun Xia**, Yi Zhang, Yiyu Shi
 
@@ -64,7 +64,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box-text' markdown="1">
 
 [Eliminating backdoor triggers for deep neural networks using attention relation graph distillation](https://arxiv.org/pdf/2204.09975)
-(AI Top Conference, CCF-A iter, Acceptance Ratio: 14%)
+(AI Top Conference, CCF-A, Acceptance Ratio: 14%)
 
 **Jun Xia**, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen
 
@@ -77,7 +77,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box-text' markdown="1">
 
 [Accelerated synthesis of neural network-based barrier certificates using collaborative learning](https://dl.acm.org/doi/10.1145/3489517.3530608)
-(EDA Top Conference, CCF-A iter, Acceptance Ratio: 23%)
+(EDA Top Conference, CCF-A, Acceptance Ratio: 23%)
 
 **Jun Xia**, Ming Hu, Xin Chen, Mingsong Chen
 
@@ -90,7 +90,7 @@ His research interest includes Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box-text' markdown="1">
 
 [PervasiveFL: Pervasive federated learning for heterogeneous IoT systems](https://dl.acm.org/doi/10.1145/3489517.3530608)
-(EDA Top Journal, CCF-A iter, Acceptance Ratio: 23%)
+(EDA Top Journal, CCF-A, Acceptance Ratio: 23%)
 
 **Jun Xia**, Tian Liu, Zhiwei Ling, Ting Wang, Xin Fu, Mingsong Chen
 
@@ -115,7 +115,7 @@ Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jin
 <div class='paper-box-text' markdown="1">
 
 [Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)
-(Multi-Media Top Conference, CCF-A iter, Acceptance Ratio: 25%)
+(Multi-Media Top Conference, CCF-A, Acceptance Ratio: 25%)
 
 Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen
 
