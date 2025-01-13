@@ -138,7 +138,7 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 
 
 # 💬 Invited Talks
-- *2024.10* ICCAD 2024 Session Chair
+- *2024.10*, ICCAD 2024 Session Chair
 - *2022.12*, East China Normal University. 
 
 # 💻 Research Internships
