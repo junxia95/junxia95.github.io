@@ -125,7 +125,7 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 </div>
 
 # 🎖 Honors and Awards
-- *2024.12* The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI; First Year; Cash Equivalent **$98,400**; Hope to see you in Washington, 2025.2.19 - 2.21).  
+- *2024.12* The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI; First Year; Cash Equivalent **$98,400**; Hope to see you in Washington, 2025.2.19 - 2.21).
 - *2023.03* China National Scholarship ($4280)
 - *2023.06* Shanghai Outstanding Graduates
 - *2022.06* PhD Outstanding Program (ECNU) PI ($4280)
@@ -138,6 +138,7 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 
 
 # 💬 Invited Talks
+- *2024.10* ICCAD 2024 Session Chair
 - *2022.12*, East China Normal University. 
 
 # 💻 Research Internships
