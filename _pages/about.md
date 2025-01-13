@@ -142,7 +142,7 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 - *2022.12*, East China Normal University. 
 
 # 💻 Research Internships
-- *2016.12 - 2019.06*, Peaking University. Supervisor: Prof. Wei Yan.
+- *2016.12 - 2019.06*, Peking University, Supervisor: Prof. Wei Yan.
 
 # 📖 Teachings
 - *2025 Spring*, **Official Instructor** (Experimental Part), CSE 60685, University of Notre Dame
