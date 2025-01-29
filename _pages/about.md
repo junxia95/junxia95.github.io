@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Xia is currently a Postdoctoral Research Associate at University of Notre Dame from 2023 (supervised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
+Jun Xia is currently a Postdoctoral Research Associate at University of Notre Dame from 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
 
 His research interest includes Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
