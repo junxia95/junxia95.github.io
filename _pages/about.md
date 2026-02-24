@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Xia is currently a Postdoctoral Research Associate at University of Notre Dame from 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
+Jun Xia has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
 
 His research interest includes Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 A NAIRR is funded by NSF (cash equivalent $98,400).
-- *2024.12*: &nbsp;🎉🎉 A paper is accepted by T-SUSC 2024. 
-- *2024.12*: &nbsp;🎉🎉 A paper is accepted by DATE 2025. 
-- *2024.09*: &nbsp;🎉🎉 A paper is accepted by NeurIPS 2024. 
-- *2024.07*: &nbsp;🎉🎉 A paper is accepted by ICCAD 2024.
-- *2024.02*: &nbsp;🎉🎉 A paper is accepted by DAC 2024.
+- *2026.02*: &nbsp;🎉🎉 A paper accepted by DAC 2026. 
+- *2026.02*: &nbsp;🎉🎉 Two papers accepted by CVPR 2026 (congratulations Boyu and Zixuan). 
+- *2024.12*: &nbsp;🎉🎉 A paper accepted by T-SUSC 2024. 
+- *2024.12*: &nbsp;🎉🎉 A paper accepted by DATE 2025. 
+- *2024.09*: &nbsp;🎉🎉 A paper accepted by NeurIPS 2024. 
+- *2024.07*: &nbsp;🎉🎉 A paper accepted by ICCAD 2024.
+- *2024.02*: &nbsp;🎉🎉 A paper accepted by DAC 2024.
 
 # 📝 Selected Publications 
 
@@ -124,6 +125,9 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 </div>
 </div>
 
+# 📖 Reviews and PC Members
+
+
 # 🎖 Honors and Awards
 - *2024.12* The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI; First Year; Cash Equivalent **$98,400**; Hope to see you in Washington, 2025.2.19 - 2.21).
 - *2023.03* China National Scholarship ($4280)
@@ -132,7 +136,7 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 - *2021.06* Outstanding Student (ECNU) 
 
 # 📖 Educations
-- *2023.09 - 2026.09 (Expected)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Prof. Yiyu Shi.
+- *2023.09 - 2026.05 (Postdoc)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Prof. Yiyu Shi.
 - *2019.09 - 2023.06 (PhD)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. Supervisor: Prof. Mingsong Chen. 
 - *2016.09 - 2019.06 (Master)*, Jiangnan University, Department of Internet of Things, Computer Science. Supervisor: Prof. Zhilei Chai.
 
@@ -147,3 +151,5 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 # 📖 Teachings
 - *2025 Spring*, **Official Instructor** (Experimental Part), CSE 60685, University of Notre Dame
 - *2024 Spring*, TA, CSE 60685, University of Notre Dame
+
+
