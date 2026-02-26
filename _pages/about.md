@@ -116,7 +116,7 @@ RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)
+Fast3DGSW: Toward Fast and Robust Watermarking for Quantization-Aware 3D Gaussian Splatting
 (Computer Vision Top Conference, CCF-A, Acceptance Ratio: 25%)
 
 Boyu Wang, **Jun Xia**,  Mingsong Chen
