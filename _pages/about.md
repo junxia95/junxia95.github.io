@@ -33,6 +33,19 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2026</div><img src='images/DAC-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-based Multi-Agent Scheduling]
+(EDA Top Conference, CCF-A, Acceptance Ratio: 25%)
+
+**Jun Xia**, Junqi Zhang, Zhaorong Zhu, Wenjie Chen, Mingsong Chen.
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce RTFL, a novel energy-aware Real-Time Federated Learning framework based on Multi-Agent Reinforcement Learning (MARL), aiming to enhance the knowledge sharing across AIoT devices within a specified training time constraint. Specifically, RTFL employs an Adaptive Quantization-based Multi-Agent Scheduling (AQMAS) strategy, enabling a team of agents to intelligently select devices with specific model quantization levels for each round of local training, taking into account the resource constraints (e.g., remaining battery power, computing capability, and communication bandwidth) of the current devices.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NeurIPS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,7 +55,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 **Jun Xia**, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, Mingsong Chen
 
 [**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K4JXEHUAAAAJ&sortby=pubdate&citation_for_view=K4JXEHUAAAAJ:0EnyYjriUFMC)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We obtain image high-frequency features through Discrete Wavelet Transform (DWT) to generate backdoor triggers.
+- We obtain image high-frequency features through the Discrete Wavelet Transform (DWT) to generate backdoor triggers.
 </div>
 </div>
 
@@ -56,7 +69,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 **Jun Xia**, Yi Zhang, Yiyu Shi
 
 [**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K4JXEHUAAAAJ&sortby=pubdate&citation_for_view=K4JXEHUAAAAJ:Wp0gIr-vW9MC)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose an energy-aware FL framework named DR-FL, which considers the energy constraints in both clients and heterogeneous deep learning models to enable energy-efficient FL. Unlike Vanilla FL, DR-FL adopts our proposed Muti-Agents Reinforcement Learning (MARL)-based dual-selection method, which allows participated devices to make contributions to the global model effectively and adaptively based on their computing capabilities and energy capacities in a MARL-based manner. 
+- We propose an energy-aware FL framework named DR-FL, which considers the energy constraints in both clients and heterogeneous deep learning models to enable energy-efficient FL. Unlike Vanilla FL, DR-FL adopts our proposed Multi-Agents Reinforcement Learning (MARL)-based dual-selection method, which allows participating devices to make contributions to the global model effectively and adaptively based on their computing capabilities and energy capacities in a MARL-based manner. 
 </div>
 </div>
 
@@ -83,7 +96,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 **Jun Xia**, Ming Hu, Xin Chen, Mingsong Chen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We fully exploit the parallel processing capability of underlying hardware to enable quick search for a barrier certificate.
+- We fully exploit the parallel processing capability of the underlying hardware to enable a quick search for a barrier certificate.
 </div>
 </div>
 
@@ -96,14 +109,42 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 **Jun Xia**, Tian Liu, Zhiwei Ling, Ting Wang, Xin Fu, Mingsong Chen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- we propose a novel framework named PervasiveFL that enables efficient and effective FL among heterogeneous IoT devices. Without modifying original local models, PervasiveFL installs one lightweight NN model named modellet on each device. By using the deep mutual learning (DML) and our entropy-based decision gating (EDG) method, modellets and local models can selectively learn from each other through soft labels.
+- We propose a novel framework named PervasiveFL that enables efficient and effective FL among heterogeneous IoT devices. Without modifying original local models, PervasiveFL installs one lightweight NN model named modellet on each device. By using the deep mutual learning (DML) and our entropy-based decision gating (EDG) method, modellets and local models can selectively learn from each other through soft labels.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)
+(Computer Vision Top Conference, CCF-A, Acceptance Ratio: 25%)
+
+Boyu Wang, **Jun Xia**,  Mingsong Chen
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/ACMMM2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)
+(Multi-Media Top Conference, CCF-A, Acceptance Ratio: 25%)
+
+Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we propose a novel two-stage backdoor defense method, named MCLDef, based on Model-Contrastive Learning (MCL). MCLDef can purify the backdoored model by pulling the feature representations of poisoned data towards those of their clean data counterparts.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/DAC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Conference, CCF-A iter,, Acceptance Ratio: 25%)
+[Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Conference, CCF-A iter, Acceptance Ratio: 25%)
 
 Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi
 
