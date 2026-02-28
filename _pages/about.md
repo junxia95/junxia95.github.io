@@ -113,7 +113,7 @@ RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR-2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Fast3DGSW: Toward Fast and Robust Watermarking for Quantization-Aware 3D Gaussian Splatting
@@ -122,24 +122,11 @@ Fast3DGSW: Toward Fast and Robust Watermarking for Quantization-Aware 3D Gaussia
 Boyu Wang, **Jun Xia**,  Mingsong Chen
 
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/ACMMM2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/10.1145/3489517.3530608)
-(Multi-Media Top Conference, CCF-A, Acceptance Ratio: 25%)
-
-Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we propose a novel two-stage backdoor defense method, named MCLDef, based on Model-Contrastive Learning (MCL). MCLDef can purify the backdoored model by pulling the feature representations of poisoned data towards those of their clean data counterparts.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/DAC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
