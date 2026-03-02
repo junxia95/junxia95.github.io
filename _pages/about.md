@@ -37,7 +37,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box-text' markdown="1">
 
 RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-based Multi-Agent Scheduling
-(EDA Top Conference, CCF-A, Acceptance Ratio: 25%)
+(Embedded System Top Conference, CCF-A, Acceptance Ratio: 25%)
 
 **Jun Xia**, Junqi Zhang, Zhaorong Zhu, Wenjie Chen, Mingsong Chen.
 
@@ -64,7 +64,7 @@ RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-
 <div class='paper-box-text' markdown="1">
 
 [Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client](https://arxiv.org/abs/2405.08183)
-(EDA Top Conference, CCF-B, Acceptance Ratio: 24%)
+(Embedded System Top Conference, CCF-B, Acceptance Ratio: 24%)
 
 **Jun Xia**, Yi Zhang, Yiyu Shi
 
@@ -91,7 +91,7 @@ RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-
 <div class='paper-box-text' markdown="1">
 
 [Accelerated synthesis of neural network-based barrier certificates using collaborative learning](https://dl.acm.org/doi/10.1145/3489517.3530608)
-(EDA Top Conference, CCF-A, Acceptance Ratio: 23%)
+(Embedded System Top Conference, CCF-A, Acceptance Ratio: 23%)
 
 **Jun Xia**, Ming Hu, Xin Chen, Mingsong Chen
 
@@ -104,7 +104,7 @@ RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-
 <div class='paper-box-text' markdown="1">
 
 [PervasiveFL: Pervasive federated learning for heterogeneous IoT systems](https://dl.acm.org/doi/10.1145/3489517.3530608)
-(EDA Top Journal, CCF-A, Acceptance Ratio: 23%)
+(Embedded System Top Journal, CCF-A, Acceptance Ratio: 23%)
 
 **Jun Xia**, Tian Liu, Zhiwei Ling, Ting Wang, Xin Fu, Mingsong Chen
 
@@ -131,7 +131,7 @@ Boyu Wang, **Jun Xia**,  Mingsong Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/DAC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://dl.acm.org/doi/10.1145/3489517.3530608)(EDA Top Conference, CCF-A iter, Acceptance Ratio: 25%)
+[Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://dl.acm.org/doi/10.1145/3489517.3530608)(Embedded System Top Conference, CCF-A iter, Acceptance Ratio: 25%)
 
 Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi
 
