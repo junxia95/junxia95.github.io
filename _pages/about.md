@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Xia is currently a Postdoctoral Research Fellow at the Hong Kong University of Science and Technology and the ACCESS Chip Center, working on ITF projects under the supervision of Prof. Yuan Xie. Since 2023, he has also been a Postdoctoral Research Associate at the University of Notre Dame, where he is advised by Prof. Yiyu Shi. Jun obtained his Ph.D. from East China Normal University in 2023, under the guidance of Prof. Mingsong Chen. Additionally, he completed his M.S. and B.S. degrees at Jiangnan University  in 2019, respectively, under the supervision of Prof. Zhilei Chai and Prof. Wei Yan from Peking University.
+Jun Xia will join the Hong Kong University of Science and Technology and the ACCESS Chip Centre as a Postdoctoral Research Fellow through the ITF projects, supervised by Prof. Yuan Xie. He has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
+
 His research interests include Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
 
@@ -38,7 +39,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box-text' markdown="1">
 [**RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-based Multi-Agent Scheduling**]()
 <br>
-<div class="badge">DAC 2026 | CCF-A</div> *(Embedded System, Acceptance Ratio: 25%)*
+<div class="badge">DAC 2026</div> &nbsp; **CCF-A** *(Embedded System, Acceptance Ratio: 25%)*
 <br>
 **Jun Xia**, Junqi Zhang, Zhaorong Zhu, Wenjie Chen, Mingsong Chen.
 
@@ -51,7 +52,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 <div class='paper-box-text' markdown="1">
 [**Fast3DGSW: Toward Fast and Robust Watermarking for Quantization-Aware 3D Gaussian Splatting**]()
 <br>
-<div class="badge">CVPR 2026 | CCF-A</div> *(Computer Vision, Acceptance Ratio: 25%)*
+<div class="badge">CVPR 2026</div> &nbsp; **CCF-A** *(Computer Vision, Acceptance Ratio: 25%)*
 <br>
 Boyu Wang, **Jun Xia**, Mingsong Chen.
 
@@ -63,7 +64,7 @@ Boyu Wang, **Jun Xia**, Mingsong Chen.
 <div class='paper-box-text' markdown="1">
 [**WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks**](https://arxiv.org/abs/2310.11595)
 <br>
-<div class="badge">NeurIPS 2024 | CCF-A</div> *(Machine Learning, Acceptance Ratio: 25%)*
+<div class="badge">NeurIPS 2024</div> &nbsp; **CCF-A** *(Machine Learning, Acceptance Ratio: 25%)*
 <br>
 **Jun Xia**, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, Mingsong Chen.
 
@@ -76,7 +77,7 @@ Boyu Wang, **Jun Xia**, Mingsong Chen.
 <div class='paper-box-text' markdown="1">
 [**Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client**](https://arxiv.org/abs/2405.08183)
 <br>
-<div class="badge">ICCAD 2024 | CCF-B</div> *(Embedded System/EDA, Acceptance Ratio: 24%)*
+<div class="badge">ICCAD 2024</div> &nbsp; **CCF-B** *(Embedded System/EDA, Acceptance Ratio: 24%)*
 <br>
 **Jun Xia**, Yi Zhang, Yiyu Shi.
 
@@ -89,7 +90,7 @@ Boyu Wang, **Jun Xia**, Mingsong Chen.
 <div class='paper-box-text' markdown="1">
 [**Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis**](https://dl.acm.org/doi/10.1145/3489517.3530608)
 <br>
-<div class="badge">DAC 2024 | CCF-A</div> *(Embedded System, Acceptance Ratio: 25%)*
+<div class="badge">DAC 2024</div> &nbsp; **CCF-A** *(Embedded System, Acceptance Ratio: 25%)*
 <br>
 Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi.
 
@@ -102,7 +103,7 @@ Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jin
 <div class='paper-box-text' markdown="1">
 [**Eliminating backdoor triggers for deep neural networks using attention relation graph distillation**](https://arxiv.org/pdf/2204.09975)
 <br>
-<div class="badge">IJCAI 2022 | CCF-A</div> *(Artificial Intelligence, Acceptance Ratio: 14%)*
+<div class="badge">IJCAI 2022</div> &nbsp; **CCF-A** *(Artificial Intelligence, Acceptance Ratio: 14%)*
 <br>
 **Jun Xia**, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen.
 
@@ -115,7 +116,7 @@ Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jin
 <div class='paper-box-text' markdown="1">
 [**Accelerated synthesis of neural network-based barrier certificates using collaborative learning**](https://dl.acm.org/doi/10.1145/3489517.3530608)
 <br>
-<div class="badge">DAC 2022 | CCF-A</div> *(Embedded System, Acceptance Ratio: 23%)*
+<div class="badge">DAC 2022</div> &nbsp; **CCF-A** *(Embedded System, Acceptance Ratio: 23%)*
 <br>
 **Jun Xia**, Ming Hu, Xin Chen, Mingsong Chen.
 
@@ -128,7 +129,7 @@ Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jin
 <div class='paper-box-text' markdown="1">
 [**PervasiveFL: Pervasive federated learning for heterogeneous IoT systems**](https://dl.acm.org/doi/10.1145/3489517.3530608)
 <br>
-<div class="badge">TCAD 2022 | CCF-A</div> *(Embedded System Journal, Acceptance Ratio: 23%)*
+<div class="badge">TCAD 2022</div> &nbsp; **CCF-A** *(Embedded System Journal, Acceptance Ratio: 23%)*
 <br>
 **Jun Xia**, Tian Liu, Zhiwei Ling, Ting Wang, Xin Fu, Mingsong Chen.
 
@@ -141,7 +142,7 @@ Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jin
 <div class='paper-box-text' markdown="1">
 [**Model-Contrastive Learning for Backdoor Elimination**](https://dl.acm.org/doi/10.1145/3489517.3530608)
 <br>
-<div class="badge">ACM MM 2022 | CCF-A</div> *(Multi-Media, Acceptance Ratio: 25%)*
+<div class="badge">ACM MM 2022</div> &nbsp; **CCF-A** *(Multi-Media, Acceptance Ratio: 25%)*
 <br>
 Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen.
 
@@ -163,8 +164,7 @@ Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Che
 - *2021.06* Outstanding Student (ECNU) 
 
 # 📖 Educations
-- *2026.03 - 2027.03 (Postdoc)*, Hong Kong University of Science and Technology (HKUST), Department of CSE, Postdoc Research Fellow, Advisor: Prof. Yuan Xie.
-- *2023.09 - 2026.03 (Postdoc)*, University of Notre Dame, Department of CSE, Postdoc Research Associate, Advisor: Prof. Yiyu Shi.
+- *2023.09 - 2026.05 (Postdoc)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Prof. Yiyu Shi.
 - *2019.09 - 2023.06 (PhD)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. Supervisor: Prof. Mingsong Chen. 
 - *2016.09 - 2019.06 (Master)*, Jiangnan University, Department of Internet of Things, Computer Science. Supervisor: Prof. Zhilei Chai.
 
