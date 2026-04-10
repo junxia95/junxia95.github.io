@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Xia will join the Hong Kong University of Science and Technology and the ACCESS Chip Centre as a Postdoctoral Research Fellow through the ITF projects, supervised by Prof. Yuan Xie. He has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
-
+Jun Xia is currently a Postdoctoral Research Fellow at the Hong Kong University of Science and Technology and the ACCESS Chip Center, working on ITF projects under the supervision of Prof. Yuan Xie. Since 2023, he has also been a Postdoctoral Research Associate at the University of Notre Dame, where he is advised by Prof. Yiyu Shi. Jun obtained his Ph.D. from East China Normal University in 2023, under the guidance of Prof. Mingsong Chen. Additionally, he completed his M.S.  at Jiangnan University under the supervision of Prof. Zhilei Chai and Prof. Wei Yan from Peking University, respectively, in 2019.
 His research interests include Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
 
