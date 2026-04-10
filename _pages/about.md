@@ -17,8 +17,187 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 Jun Xia will join the Hong Kong University of Science and Technology and the ACCESS Chip Centre as a Postdoctoral Research Fellow through the ITF projects, supervised by Prof. Yuan Xie. He has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
 
+His research interests include Heterogeneous On-device Federated Learning and Trustworthy AI. 
+
+
+# 🔥 News
+- *2026.02*: &nbsp;🎉🎉 A paper accepted by DAC 2026. 
+- *2026.02*: &nbsp;🎉🎉 Two papers accepted by CVPR 2026 (congratulations Boyu and Zixuan). 
+- *2024.12*: &nbsp;🎉🎉 A paper accepted by T-SUSC 2024. 
+- *2024.12*: &nbsp;🎉🎉 A paper accepted by DATE 2025. 
+- *2024.09*: &nbsp;🎉🎉 A paper accepted by NeurIPS 2024. 
+- *2024.07*: &nbsp;🎉🎉 A paper accepted by ICCAD 2024.
+- *2024.02*: &nbsp;🎉🎉 A paper accepted by DAC 2024.
+
+---
+
+# 📝 Selected Publications 
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+[**RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-based Multi-Agent Scheduling**]()
+<br>
+<div class="badge">DAC 2026</div> &nbsp; **CCF-A** *(Embedded System, Acceptance Ratio: 25%)*
+<br>
+**Jun Xia**, Junqi Zhang, Zhaorong Zhu, Wenjie Chen, Mingsong Chen.
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce RTFL, a novel energy-aware Real-Time Federated Learning framework based on Multi-Agent Reinforcement Learning (MARL), aiming to enhance the knowledge sharing across AIoT devices within a specified training time constraint. Specifically, RTFL employs an Adaptive Quantization-based Multi-Agent Scheduling (AQMAS) strategy, enabling a team of agents to intelligently select devices with specific model quantization levels for each round of local training, taking into account the resource constraints (e.g., remaining battery power, computing capability, and communication bandwidth) of the current devices.
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+[**Fast3DGSW: Toward Fast and Robust Watermarking for Quantization-Aware 3D Gaussian Splatting**]()
+<br>
+<div class="badge">CVPR 2026</div> &nbsp; **CCF-A** *(Computer Vision, Acceptance Ratio: 25%)*
+<br>
+Boyu Wang, **Jun Xia**, Mingsong Chen.
+
+[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+[**WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks**](https://arxiv.org/abs/2310.11595)
+<br>
+<div class="badge">NeurIPS 2024</div> &nbsp; **CCF-A** *(Machine Learning, Acceptance Ratio: 25%)*
+<br>
+**Jun Xia**, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, Mingsong Chen.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K4JXEHUAAAAJ&sortby=pubdate&citation_for_view=K4JXEHUAAAAJ:0EnyYjriUFMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We obtain image high-frequency features through the Discrete Wavelet Transform (DWT) to generate backdoor triggers.
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+[**Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client**](https://arxiv.org/abs/2405.08183)
+<br>
+<div class="badge">ICCAD 2024</div> &nbsp; **CCF-B** *(Embedded System/EDA, Acceptance Ratio: 24%)*
+<br>
+**Jun Xia**, Yi Zhang, Yiyu Shi.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K4JXEHUAAAAJ&sortby=pubdate&citation_for_view=K4JXEHUAAAAJ:Wp0gIr-vW9MC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose an energy-aware FL framework named DR-FL, which considers the energy constraints in both clients and heterogeneous deep learning models to enable energy-efficient FL. Unlike Vanilla FL, DR-FL adopts our proposed Multi-Agent Reinforcement Learning (MARL)-based dual-selection method, which enables participating devices to make effective and adaptive contributions to the global model based on their computing capabilities and energy capacities in a MARL-based manner. 
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+[**Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis**](https://dl.acm.org/doi/10.1145/3489517.3530608)
+<br>
+<div class="badge">DAC 2024</div> &nbsp; **CCF-A** *(Embedded System, Acceptance Ratio: 25%)*
+<br>
+Ruiyang Qin, **Jun Xia**, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=K4JXEHUAAAAJ&sortby=pubdate&authuser=2&citation_for_view=K4JXEHUAAAAJ:Zph67rFs4hoC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we propose a novel framework to select and store the most representative data online in a self-supervised way. Such data has a small memory footprint and allows infrequent requests of user annotations for further fine-tuning.
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+[**Eliminating backdoor triggers for deep neural networks using attention relation graph distillation**](https://arxiv.org/pdf/2204.09975)
+<br>
+<div class="badge">IJCAI 2022</div> &nbsp; **CCF-A** *(Artificial Intelligence, Acceptance Ratio: 14%)*
+<br>
+**Jun Xia**, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce a novel backdoor defense framework named Attention Relation Graph Distillation (ARGD), which fully explores the correlation among attention features with different orders using our proposed Attention Relation Graphs (ARGs). Based on the alignment of ARGs between both teacher and student models during knowledge distillation, ARGD can eradicate more backdoor triggers than NAD. 
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+[**Accelerated synthesis of neural network-based barrier certificates using collaborative learning**](https://dl.acm.org/doi/10.1145/3489517.3530608)
+<br>
+<div class="badge">DAC 2022</div> &nbsp; **CCF-A** *(Embedded System, Acceptance Ratio: 23%)*
+<br>
+**Jun Xia**, Ming Hu, Xin Chen, Mingsong Chen.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We fully exploit the parallel processing capability of the underlying hardware to enable a quick search for a barrier certificate.
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+[**PervasiveFL: Pervasive federated learning for heterogeneous IoT systems**](https://dl.acm.org/doi/10.1145/3489517.3530608)
+<br>
+<div class="badge">TCAD 2022</div> &nbsp; **CCF-A** *(Embedded System Journal, Acceptance Ratio: 23%)*
+<br>
+**Jun Xia**, Tian Liu, Zhiwei Ling, Ting Wang, Xin Fu, Mingsong Chen.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel framework named PervasiveFL that enables efficient and effective FL among heterogeneous IoT devices. Without modifying original local models, PervasiveFL installs one lightweight NN model named modellet on each device. By using the deep mutual learning (DML) and our entropy-based decision gating (EDG) method, modellets and local models can selectively learn from each other through soft labels.
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+[**Model-Contrastive Learning for Backdoor Elimination**](https://dl.acm.org/doi/10.1145/3489517.3530608)
+<br>
+<div class="badge">ACM MM 2022</div> &nbsp; **CCF-A** *(Multi-Media, Acceptance Ratio: 25%)*
+<br>
+Zhihao Yue, **Jun Xia**, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we propose a novel two-stage backdoor defense method, named MCLDef, based on Model-Contrastive Learning (MCL). MCLDef can purify the backdoored model by pulling the feature representations of poisoned data towards those of their clean data counterparts.
+</div>
+</div>
+
+---
+
+# 📖 Reviews and PC Members
+
+
+# 🎖 Honors and Awards
+- *2024.12* The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI; First Year; Cash Equivalent **$98,400**; Hope to see you in Washington, 2025.2.19 - 2.21).
+- *2023.03* China National Scholarship ($4280)
+- *2023.06* Shanghai Outstanding Graduates
+- *2022.06* PhD Outstanding Program (ECNU) PI ($4280)
+- *2021.06* Outstanding Student (ECNU) 
+
+# 📖 Educations
+- *2023.09 - 2026.05 (Postdoc)*, University of Notre Dame, Department of CSE, Postdoc Research Fellow, Advisor: Prof. Yiyu Shi.
+- *2019.09 - 2023.06 (PhD)*, East China Normal University, Department of Software Engineering, Software Engineering, A-level subject rating. Supervisor: Prof. Mingsong Chen. 
+- *2016.09 - 2019.06 (Master)*, Jiangnan University, Department of Internet of Things, Computer Science. Supervisor: Prof. Zhilei Chai.
+
+
+# 💬 Invited Talks
+- *2024.10*, ICCAD 2024 Session Chair.
+- *2022.12*, East China Normal University. 
+
+# 💻 Research Internships
+- *2016.12 - 2019.06*, Peking University, Supervisor: Prof. Wei Yan.
+
+# 📖 Teachings
+- *2025 Spring*, **Official Instructor** (Experimental Part), CSE 60685, University of Notre Dame
+- *2024 Spring*, TA, CSE 60685, University of Notre Dame
 His research interests include Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
 
