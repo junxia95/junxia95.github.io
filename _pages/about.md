@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Xia will join the Hong Kong University of Science and Technology and the ACCESS Chip Centre as a Postdoctoral Research Fellow through the ITF projects, supervised by Prof. Yuan Xie. He has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
+Jun Xia will join the Hong Kong University of Science and Technology and the ACCESS Chip Center as a Postdoctoral Research Fellow through the ITF projects, supervised by Prof. Yuan Xie. He has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (supervised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
 
 His research interests include Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
@@ -36,18 +36,14 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 # 📝 Selected Publications 
 
 <div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-[**RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-based Multi-Agent Scheduling**]()
-<br>
-<div class="badge">DAC 2026</div> &nbsp; **CCF-A** *(Embedded System, Acceptance Ratio: 25%)*
-<br>
-**Jun Xia**, Junqi Zhang, Zhaorong Zhu, Wenjie Chen, Mingsong Chen.
-
-[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We introduce RTFL, a novel energy-aware Real-Time Federated Learning framework based on Multi-Agent Reinforcement Learning (MARL), aiming to enhance the knowledge sharing across AIoT devices within a specified training time constraint. Specifically, RTFL employs an Adaptive Quantization-based Multi-Agent Scheduling (AQMAS) strategy, enabling a team of agents to intelligently select devices with specific model quantization levels for each round of local training, taking into account the resource constraints (e.g., remaining battery power, computing capability, and communication bandwidth) of the current devices.
+  <div class='paper-box-text' markdown="1">
+    [**RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-based Multi-Agent Scheduling**]()
+    <br>
+    **Jun Xia**, Junqi Zhang, Zhaorong Zhu, Wenjie Chen, Mingsong Chen.
+    <br>
+    <div class="badge">DAC 2026</div> &nbsp; **CCF-A** *(Embedded System, Acceptance Ratio: 25%)*
+  </div>
 </div>
-</div>
-
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 [**Fast3DGSW: Toward Fast and Robust Watermarking for Quantization-Aware 3D Gaussian Splatting**]()
