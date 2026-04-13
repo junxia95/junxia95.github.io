@@ -380,7 +380,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 📖 Educations
 <ul class="timeline-list edu">
-  <li><span class="date-tag">2023.09 - 2026.05</span> <b>Postdoc</b>, University of Notre Dame, Department of CSE. <i>Advisor: Prof. Yiyu Shi.</i></li>
+  <li><span class="date-tag">2023.09 - 2026.03</span> <b>Postdoc</b>, University of Notre Dame, Department of CSE. <i>Advisor: Prof. Yiyu Shi.</i></li>
   <li><span class="date-tag">2019.09 - 2023.06</span> <b>PhD</b>, East China Normal University, Department of Software Engineering (A-level subject rating). <i>Supervisor: Prof. Mingsong Chen.</i></li>
   <li><span class="date-tag">2016.09 - 2019.06</span> <b>Master</b>, Jiangnan University, Department of Internet of Things, Computer Science. <i>Supervisor: Prof. Zhilei Chai.</i></li>
 </ul>
