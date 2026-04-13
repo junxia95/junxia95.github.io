@@ -410,6 +410,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 💬 Invited Talks & Services
 <ul class="timeline-list talks">
+  <li><span class="date-tag">2026.03</span> Invited Talk at Shandong University.</li>
   <li><span class="date-tag">2024.10</span> ICCAD 2024 Session Chair.</li>
   <li><span class="date-tag">2022.12</span> Invited Talk at East China Normal University.</li>
 </ul>
