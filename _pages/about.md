@@ -35,17 +35,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 📝 Selected Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-text' markdown="1">
-    [**RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-based Multi-Agent Scheduling**]()
-    <br>
-    **Jun Xia**, Junqi Zhang, Zhaorong Zhu, Wenjie Chen, Mingsong Chen.
-    <br>
-    <div class="badge">DAC 2026</div> &nbsp; **CCF-A** *(Embedded System, Acceptance Ratio: 25%)*
-  </div>
-</div>
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+- **RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-based Multi-Agent Scheduling**
+  <br>
+  **Jun Xia**, Junqi Zhang, Zhaorong Zhu, Wenjie Chen, Mingsong Chen.
+  <br>
+  **DAC 2026** (CCF-A), *Acceptance Ratio: 25%*
 [**Fast3DGSW: Toward Fast and Robust Watermarking for Quantization-Aware 3D Gaussian Splatting**]()
 <br>
 <div class="badge">CVPR 2026</div> &nbsp; **CCF-A** *(Computer Vision, Acceptance Ratio: 25%)*
