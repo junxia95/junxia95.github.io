@@ -21,16 +21,6 @@ Jun Xia is currently at the Hong Kong University of Science and Technology and t
 
 His research interests include Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
-
-# 🔥 News
-- *2026.02*: &nbsp;🎉🎉 A paper accepted by DAC 2026. 
-- *2026.02*: &nbsp;🎉🎉 Two papers accepted by CVPR 2026 (congratulations Boyu and Zixuan). 
-- *2024.12*: &nbsp;🎉🎉 A paper accepted by T-SUSC 2024. 
-- *2024.12*: &nbsp;🎉🎉 A paper accepted by DATE 2025. 
-- *2024.09*: &nbsp;🎉🎉 A paper accepted by NeurIPS 2024. 
-- *2024.07*: &nbsp;🎉🎉 A paper accepted by ICCAD 2024.
-- *2024.02*: &nbsp;🎉🎉 A paper accepted by DAC 2024.
-
 ---
 
 # 📝 Selected Publications 
@@ -105,27 +95,28 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   }
 
   /* 徽章样式 */
-  .badge-group {
+.custom-badge-group {
     margin-bottom: 12px;
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
     align-items: center;
   }
-  .badge {
+  .custom-badge {
     display: inline-block;
     padding: 3px 10px;
     border-radius: 12px;
     font-size: 0.85em;
     font-weight: 600;
   }
-  .badge.venue { background: var(--badge-venue-bg); color: var(--badge-venue-text); }
-  .badge.ccf { background: var(--badge-ccf-bg); color: var(--badge-ccf-text); }
-  .badge.ratio { background: var(--badge-ratio-bg); color: var(--badge-ratio-text); }
+  /* 直接写入颜色，防止变量被模板覆盖 */
+  .custom-badge-conf { background-color: #ddf4ff !important; color: #0969da !important; }
+  .custom-badge-level { background-color: #dafbe1 !important; color: #1a7f37 !important; }
+  .custom-badge-ratio { background-color: #fff8c5 !important; color: #9a6700 !important; }
   
-  .paper-tagline {
+  .custom-paper-tagline {
     font-size: 0.9em;
-    color: var(--text-muted);
+    color: #57606a;
     font-style: italic;
   }
 
@@ -206,11 +197,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <div class="paper-authors">
     <b>Jun Xia</b>, Junqi Zhang, Zhaorong Zhu, Wenjie Chen, Mingsong Chen.
   </div>
-  <div class="badge-group">
-    <span class="badge venue">DAC 2026</span>
-    <span class="badge ccf">CCF-A</span>
-    <span class="badge ratio">Acceptance Ratio: 25%</span>
-    <span class="paper-tagline">Embedded System</span>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">DAC 2026</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 25%</span>
+    <span class="custom-paper-tagline">Embedded System</span>
   </div>
   <div class="paper-abstract">
     We introduce RTFL, a novel energy-aware Real-Time Federated Learning framework based on Multi-Agent Reinforcement Learning (MARL), aiming to enhance the knowledge sharing across AIoT devices within a specified training time constraint. Specifically, RTFL employs an Adaptive Quantization-based Multi-Agent Scheduling (AQMAS) strategy, enabling a team of agents to intelligently select devices with specific model quantization levels for each round of local training, taking into account the resource constraints of the current devices.
@@ -227,11 +218,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <div class="paper-authors">
     Boyu Wang, <b>Jun Xia</b>, Mingsong Chen.
   </div>
-  <div class="badge-group">
-    <span class="badge venue">CVPR 2026</span>
-    <span class="badge ccf">CCF-A</span>
-    <span class="badge ratio">Acceptance Ratio: 25%</span>
-    <span class="paper-tagline">Computer Vision</span>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">CVPR 2026</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 25%</span>
+    <span class="custom-paper-tagline">Computer Vision</span>
   </div>
   <div class="paper-links">
     <a href="#">Project</a>
@@ -245,11 +236,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <div class="paper-authors">
     <b>Jun Xia</b>, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Yiyu Shi, Xian Wei, Mingsong Chen.
   </div>
-  <div class="badge-group">
-    <span class="badge venue">NeurIPS 2024</span>
-    <span class="badge ccf">CCF-A</span>
-    <span class="badge ratio">Acceptance Ratio: 25%</span>
-    <span class="paper-tagline">Machine Learning</span>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">NeurIPS 2024</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 25%</span>
+    <span class="custom-paper-tagline">Machine Learning</span>
   </div>
   <div class="paper-abstract">
     We obtain image high-frequency features through the Discrete Wavelet Transform (DWT) to generate backdoor triggers.
@@ -266,11 +257,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <div class="paper-authors">
     <b>Jun Xia</b>, Yi Zhang, Yiyu Shi.
   </div>
-  <div class="badge-group">
-    <span class="badge venue">ICCAD 2024</span>
-    <span class="badge ccf">CCF-B</span>
-    <span class="badge ratio">Acceptance Ratio: 24%</span>
-    <span class="paper-tagline">Embedded System / EDA</span>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">ICCAD 2024</span>
+    <span class="custom-badge custom-badge-level">CCF-B</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 24%</span>
+    <span class="custom-paper-tagline">Embedded System / EDA</span>
   </div>
   <div class="paper-abstract">
     We propose an energy-aware FL framework named DR-FL, which considers the energy constraints in both clients and heterogeneous deep learning models to enable energy-efficient FL. Unlike Vanilla FL, DR-FL adopts our proposed Multi-Agent Reinforcement Learning (MARL)-based dual-selection method...
@@ -287,11 +278,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <div class="paper-authors">
     Ruiyang Qin, <b>Jun Xia</b>, Zhenge Jia, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi.
   </div>
-  <div class="badge-group">
-    <span class="badge venue">DAC 2024</span>
-    <span class="badge ccf">CCF-A</span>
-    <span class="badge ratio">Acceptance Ratio: 25%</span>
-    <span class="paper-tagline">Embedded System</span>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">DAC 2024</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 25%</span>
+    <span class="custom-paper-tagline">Embedded System</span>
   </div>
   <div class="paper-abstract">
     In this paper, we propose a novel framework to select and store the most representative data online in a self-supervised way. Such data has a small memory footprint and allows infrequent requests of user annotations for further fine-tuning.
@@ -308,11 +299,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <div class="paper-authors">
     <b>Jun Xia</b>, Ting Wang, Jiepin Ding, Xian Wei, Mingsong Chen.
   </div>
-  <div class="badge-group">
-    <span class="badge venue">IJCAI 2022</span>
-    <span class="badge ccf">CCF-A</span>
-    <span class="badge ratio">Acceptance Ratio: 14%</span>
-    <span class="paper-tagline">Artificial Intelligence</span>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">IJCAI 2022</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 14%</span>
+    <span class="custom-paper-tagline">Artificial Intelligence</span>
   </div>
   <div class="paper-abstract">
     We introduce a novel backdoor defense framework named Attention Relation Graph Distillation (ARGD), which fully explores the correlation among attention features with different orders using our proposed Attention Relation Graphs (ARGs).
@@ -329,11 +320,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <div class="paper-authors">
     <b>Jun Xia</b>, Ming Hu, Xin Chen, Mingsong Chen.
   </div>
-  <div class="badge-group">
-    <span class="badge venue">DAC 2022</span>
-    <span class="badge ccf">CCF-A</span>
-    <span class="badge ratio">Acceptance Ratio: 23%</span>
-    <span class="paper-tagline">Embedded System</span>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">DAC 2022</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 23%</span>
+    <span class="custom-paper-tagline">Embedded System</span>
   </div>
   <div class="paper-abstract">
     We fully exploit the parallel processing capability of the underlying hardware to enable a quick search for a barrier certificate.
@@ -350,11 +341,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <div class="paper-authors">
     <b>Jun Xia</b>, Tian Liu, Zhiwei Ling, Ting Wang, Xin Fu, Mingsong Chen.
   </div>
-  <div class="badge-group">
-    <span class="badge venue">TCAD 2022</span>
-    <span class="badge ccf">CCF-A</span>
-    <span class="badge ratio">Acceptance Ratio: 23%</span>
-    <span class="paper-tagline">Embedded System Journal</span>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">TCAD 2022</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 23%</span>
+    <span class="custom-paper-tagline">Embedded System Journal</span>
   </div>
   <div class="paper-abstract">
     We propose a novel framework named PervasiveFL that enables efficient and effective FL among heterogeneous IoT devices. Without modifying original local models, PervasiveFL installs one lightweight NN model named modellet on each device.
@@ -371,11 +362,11 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <div class="paper-authors">
     Zhihao Yue, <b>Jun Xia</b>, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen.
   </div>
-  <div class="badge-group">
-    <span class="badge venue">ACM MM 2022</span>
-    <span class="badge ccf">CCF-A</span>
-    <span class="badge ratio">Acceptance Ratio: 25%</span>
-    <span class="paper-tagline">Multi-Media</span>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">ACM MM 2022</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 25%</span>
+    <span class="custom-paper-tagline">Multi-Media</span>
   </div>
   <div class="paper-abstract">
     In this paper, we propose a novel two-stage backdoor defense method, named MCLDef, based on Model-Contrastive Learning (MCL). MCLDef can purify the backdoored model by pulling the feature representations of poisoned data towards those of their clean data counterparts.
