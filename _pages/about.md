@@ -216,7 +216,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
     <a href="#">Fast3DGSW: Toward Fast and Robust Watermarking for Quantization-Aware 3D Gaussian Splatting</a>
   </div>
   <div class="paper-authors">
-    Boyu Wang, <b>Jun Xia</b>, Mingsong Chen.
+    Boyu Wang<sup>*</sup>, <b>Jun Xia</b><sup>*</sup>, Mingsong Chen.
   </div>
   <div class="custom-badge-group">
     <span class="custom-badge custom-badge-conf">CVPR 2026</span>
