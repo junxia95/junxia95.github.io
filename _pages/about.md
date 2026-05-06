@@ -410,7 +410,6 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <li><span class="date-tag">2024 Spring</span> <b>Teaching Assistant</b>, CSE 60685, University of Notre Dame.</li>
 </ul>
 
-> *His research interests include Heterogeneous On-device Federated Learning and Trustworthy AI.*
 
 # 📖 Reviews and PC Members
 *(Content to be added)*
