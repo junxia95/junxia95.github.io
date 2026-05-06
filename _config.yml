@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jun Xia"
   avatar           : "images/junxia.jpg"
-  bio              : "University of Notre Dame"
-  location         : "South Bend, US"
+  bio              : "Hong Kong University of Science and Technology (HKUST)"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=K4JXEHUAAAAJ"
-  email            : "jxia4@nd.edu"
+  email            : "jxjunxia@ust.hk"
   researchgate     : "https://www.researchgate.net/profile/Jun-Xia-23"
   uri              :
   bitbucket        :
