@@ -411,5 +411,9 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 </ul>
 
 
-# 📖 Reviews and PC Members
-*(Content to be added)*
+# 📖 Reviews and TPC Members
+<ul class="timeline-list TPC members">
+  <li><span class="date-tag">2026</span> ICCAD.</li>
+  <li><span class="date-tag">2026</span> ICCD.</li>
+  <li><span class="date-tag">2026</span> AICAS</li>
+</ul>
