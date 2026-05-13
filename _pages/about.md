@@ -199,7 +199,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
     <span class="custom-badge custom-badge-conf">ICML 2026</span>
     <span class="custom-badge custom-badge-level">CCF-A</span>
     <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 25%</span>
-    <span class="custom-paper-tagline">Computer Vision</span>
+    <span class="custom-paper-tagline">Machine Learning</span>
   </div>
   <div class="paper-links">
     <a href="#">Project</a>
