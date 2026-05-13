@@ -190,6 +190,25 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 <div class="paper-card">
   <div class="paper-title">
+    <a href="#">TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Robust and Controllable Auto-Routing in LLM-based Systems</a>
+  </div>
+  <div class="paper-authors">
+    Yuejun Jiao, <b>Jun Xia</b>, Yanxin Yang, Yonghao Yang, Hao Shen, Mingsong Chen.
+  </div>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">ICML 2026</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 25%</span>
+    <span class="custom-paper-tagline">Computer Vision</span>
+  </div>
+  <div class="paper-links">
+    <a href="#">Project</a>
+  </div>
+</div>
+
+
+<div class="paper-card">
+  <div class="paper-title">
     <a href="#">RTFL: Energy-Aware Federated Learning for AIoT Design Via Adaptive Quantization-based Multi-Agent Scheduling</a>
   </div>
   <div class="paper-authors">
@@ -413,7 +432,8 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 📖 Reviews and TPC Members
 <ul class="timeline-list TPC members">
-  <li><span class="date-tag">2026</span> ICCAD.</li>
+  <li><span class="date-tag">2023-2026</span> ICCAD.</li>
   <li><span class="date-tag">2026</span> ICCD.</li>
+  <li><span class="date-tag">2026</span> AICAS</li>
   <li><span class="date-tag">2026</span> AICAS</li>
 </ul>
