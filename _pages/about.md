@@ -436,5 +436,5 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <li><span class="date-tag">2026</span> ICCD TPC member</li>
   <li><span class="date-tag">2026</span> AICAS TPC member</li>
   <li><span class="date-tag">2023-2025</span> NeurIPS Reviewer</li>
-  <li><span class="date-tag"></span>IEEE Transactions on Computers Reviewer</li>
+  <li><span class="date-tag">2026</span>IEEE Transactions on Computers Reviewer</li>
 </ul>
