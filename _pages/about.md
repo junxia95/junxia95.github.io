@@ -404,7 +404,8 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 🎖 Honors and Awards
 <ul class="timeline-list awards">
-  <li><span class="date-tag">2024.12</span> The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI; First Year; Cash Equivalent <b>$98,400</b>; Hope to see you in Washington, 2025.2.19 - 2.21).</li>
+  <li><span class="date-tag">2026.07</span> The OpenAI Researcher Access Program (PI).</li>
+  <li><span class="date-tag">2024.12</span> The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI).</li>
   <li><span class="date-tag">2023.03</span> China National Scholarship ($4280)</li>
   <li><span class="date-tag">2023.06</span> Shanghai Outstanding Graduates</li>
   <li><span class="date-tag">2022.06</span> PhD Outstanding Program (ECNU) PI ($4280)</li>
@@ -437,4 +438,5 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
   <li><span class="date-tag">2026</span> AICAS TPC member</li>
   <li><span class="date-tag">2023-2025</span> NeurIPS Reviewer</li>
   <li><span class="date-tag">2026</span>IEEE Transactions on Computers Reviewer</li>
+  <li><span class="date-tag">2026</span>Symmetry (IF=2.2) Guest Editor</li>
 </ul>
