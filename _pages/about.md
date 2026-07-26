@@ -177,6 +177,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 🔥 News
 <ul class="timeline-list news">
+  <li><span class="date-tag">2026.07</span> 🎉🎉 A paper was accepted by RTSS 2026.</li>
   <li><span class="date-tag">2026.05</span> 🎉🎉 A paper was accepted by ICML 2026 (Congratulations to Yuejun).</li>
   <li><span class="date-tag">2026.02</span> 🎉🎉 A paper was accepted by DAC 2026.</li>
   <li><span class="date-tag">2026.02</span> 🎉🎉 Two papers were accepted by CVPR 2026 (Congratulations to Boyu and Zixuan).</li>
