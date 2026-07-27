@@ -189,6 +189,26 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 📝 Selected Publications 
 
+
+<div class="paper-card">
+  <div class="paper-title">
+    <a href="#">Real-Time Energy-Efficient Decentralized Federated Learning via Self-Improving RL-based Dynamic Quantization</a>
+  </div>
+  <div class="paper-authors">
+    <b>Jun Xia</b>, Zhaorong Zhu,  Mingsong Chen.
+  </div>
+  <div class="custom-badge-group">
+    <span class="custom-badge custom-badge-conf">RTSS 2026</span>
+    <span class="custom-badge custom-badge-level">CCF-A</span>
+    <span class="custom-badge custom-badge-ratio">Acceptance Ratio: 13%</span>
+    <span class="custom-paper-tagline">Embedded System</span>
+  </div>
+  <div class="paper-links">
+    <a href="#">Project</a>
+  </div>
+</div>
+
+
 <div class="paper-card">
   <div class="paper-title">
     <a href="#">TAMPO: Task- and Model-Aware Automatic Prompt Optimization for Robust and Controllable Auto-Routing in LLM-based Systems</a>
