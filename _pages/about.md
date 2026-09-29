@@ -454,6 +454,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 📖 Reviews and TPC Members
 <ul class="timeline-list TPC members">
+  <li><span class="date-tag">2027</span> Eurosys (Extra) TPC member</li>
   <li><span class="date-tag">2023-2026</span> ICCAD TPC member</li>
   <li><span class="date-tag">2026</span> ICCD TPC member</li>
   <li><span class="date-tag">2026</span> AICAS TPC member</li>
