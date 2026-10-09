@@ -440,6 +440,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 💬 Invited Talks & Services
 <ul class="timeline-list talks">
+    <li><span class="date-tag">2026.11</span> ICCD 2026 Session Chair.</li>
   <li><span class="date-tag">2026.03</span> Invited Talk at Shandong University.</li>
   <li><span class="date-tag">2024.10</span> ICCAD 2024 Session Chair.</li>
   <li><span class="date-tag">2022.12</span> Invited Talk at East China Normal University.</li>
@@ -454,11 +455,9 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 📖 Reviews and TPC Members
 <ul class="timeline-list TPC members">
-  <li><span class="date-tag">2027</span> Eurosys (Extra) TPC member</li>
   <li><span class="date-tag">2023-2026</span> ICCAD TPC member</li>
   <li><span class="date-tag">2026</span> ICCD TPC member</li>
   <li><span class="date-tag">2026</span> AICAS TPC member</li>
   <li><span class="date-tag">2023-2025</span> NeurIPS Reviewer</li>
   <li><span class="date-tag">2026</span>IEEE Transactions on Computers Reviewer</li>
-  <li><span class="date-tag">2026</span>Symmetry (JCRQ2, IF=2.2) Guest Editor</li>
 </ul>
