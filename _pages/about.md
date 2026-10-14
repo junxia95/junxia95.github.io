@@ -177,6 +177,8 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 🔥 News
 <ul class="timeline-list news">
+  <li><span class="date-tag">2026.09</span> 🎉🎉 Elected as an executive committee member of CCF Embedded Systems Committee (CCF TCEBS).</li>
+  <li><span class="date-tag">2026.09</span> 🎉🎉 Invited as session chair at ICCD 2026.</li>
   <li><span class="date-tag">2026.07</span> 🎉🎉 A paper was accepted by RTSS 2026.</li>
   <li><span class="date-tag">2026.05</span> 🎉🎉 A paper was accepted by ICML 2026 (Congratulations to Yuejun).</li>
   <li><span class="date-tag">2026.02</span> 🎉🎉 A paper was accepted by DAC 2026.</li>
