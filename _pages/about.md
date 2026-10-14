@@ -456,10 +456,21 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 
 # 📖 Reviews and TPC Members
-<ul class="timeline-list TPC members">
-  <li><span class="date-tag">2023-2026</span> ICCAD TPC member</li>
-  <li><span class="date-tag">2026</span> ICCD TPC member</li>
-  <li><span class="date-tag">2026</span> AICAS TPC member</li>
-  <li><span class="date-tag">2023-2025</span> NeurIPS Reviewer</li>
-  <li><span class="date-tag">2026</span>IEEE Transactions on Computers Reviewer</li>
+### 💻 Computer Architecture & Hardware
+<ul class="timeline-list">
+  <li><span class="date-tag">2023–2026</span> IEEE/ACM International Conference on Computer-Aided Design (ICCAD) TPC Member</li>
+  <li><span class="date-tag">2026</span> IEEE International Conference on Computer Design (ICCD) TPC Member</li>
+  <li><span class="date-tag">2026</span> IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) TPC Member</li>
+  <li><span class="date-tag">2026</span> IEEE Transactions on Computers (TC) Reviewer</li>
+  <li><span class="date-tag">2026 </span> High-Confidence Computing Reviewer </li>
+</ul>
+
+### 🤖 Artificial Intelligence & Machine Learning
+<ul class="timeline-list">
+  <li><span class="date-tag">2026 </span> ICLR Reviewer</li>
+  <li><span class="date-tag">2026 </span> AAAI TPC Member</li>
+  <li><span class="date-tag">2023–2026</span> Conference on Neural Information Processing Systems (NeurIPS) Reviewer</li>
+  <li><span class="date-tag">2026 </span> Machine Learning Reviewer</li>
+  <li><span class="date-tag">2026 </span> Neural Computing Reviewer</li>
+  <li><span class="date-tag">2026 </span> Pattern Recognition Reviewer</li>
 </ul>
