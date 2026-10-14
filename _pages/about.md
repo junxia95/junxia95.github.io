@@ -450,7 +450,8 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 📖 Teachings
 <ul class="timeline-list edu">
-  <li><span class="date-tag">2025 Spring</span> <b>Official Instructor</b> (Experimental Part), CSE 60685, University of Notre Dame.</li>
+  <li><span class="date-tag">2025 Fall </span>  <b>Official Instructor</b>, CSE 60685, University of Notre Dame.</li>
+  <li><span class="date-tag">2025 Spring</span> <b>Official Instructor</b>, CSE 60685, University of Notre Dame.</li>
   <li><span class="date-tag">2024 Spring</span> <b>Teaching Assistant</b>, CSE 60685, University of Notre Dame.</li>
 </ul>
 
