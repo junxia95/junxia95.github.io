@@ -427,8 +427,8 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 
 # 🎖 Honors and Awards
 <ul class="timeline-list awards">
-  <li><span class="date-tag">2026.07</span> The OpenAI Researcher Access Program (PI).</li>
-  <li><span class="date-tag">2024.12</span> The National Artificial Intelligence Research Resource (NAIRR) Pilot Award (PI).</li>
+  <li><span class="date-tag">2026.07</span> The OpenAI Researcher Program (PI).</li>
+  <li><span class="date-tag">2024.12 (2026.10) </span> The NAIRR Pilot Award (PI) and Sustainable Research Pathways (Research Mentor).</li>
   <li><span class="date-tag">2023.03</span> China National Scholarship ($4280)</li>
   <li><span class="date-tag">2023.06</span> Shanghai Outstanding Graduates</li>
   <li><span class="date-tag">2022.06</span> PhD Outstanding Program (ECNU) PI ($4280)</li>
@@ -444,7 +444,7 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 <ul class="timeline-list talks">
     <li><span class="date-tag">2026.11</span> ICCD 2026 Session Chair.</li>
   <li><span class="date-tag">2026.03</span> Invited Talk at Shandong University.</li>
-  <li><span class="date-tag">2024.10</span> ICCAD 2024 Session Chair.</li>
+  <li><span class="date-tag">2024.10</span> ICCAD 2024-2026 Session Chair.</li>
   <li><span class="date-tag">2022.12</span> Invited Talk at East China Normal University.</li>
 </ul>
 
