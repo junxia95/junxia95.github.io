@@ -473,6 +473,6 @@ His research interests lie in the intersection of **Computer Architecture, Embed
   <li><span class="date-tag">2026 </span> AAAI TPC Member</li>
   <li><span class="date-tag">2023–2026</span> Conference on Neural Information Processing Systems (NeurIPS) Reviewer</li>
   <li><span class="date-tag">2026 </span> Machine Learning Reviewer</li>
-  <li><span class="date-tag">2026 </span> Neural Computing Reviewer</li>
+  <li><span class="date-tag">2026 </span> Neurocomputing Reviewer</li>
   <li><span class="date-tag">2026 </span> Pattern Recognition Reviewer</li>
 </ul>
