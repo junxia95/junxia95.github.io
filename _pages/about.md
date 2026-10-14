@@ -181,7 +181,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
   <li><span class="date-tag">2026.10</span> 🎉🎉 A paper was accepted by TMI.</li>
   <li><span class="date-tag">2026.10</span> 🎉🎉 A paper was accepted by BIBM.</li>
   <li><span class="date-tag">2026.09</span> 🎉🎉 Elected as an executive committee member of CCF Embedded Systems Committee (CCF TCEBS).</li>
-  <li><span class="date-tag">2026.09</span> 🎉🎉 Invited as session chair at ICCD 2026.</li>
+  <li><span class="date-tag">2026.09</span> 🎉🎉 Invited as a session chair at ICCD 2026.</li>
   <li><span class="date-tag">2026.07</span> 🎉🎉 A paper was accepted by RTSS 2026.</li>
   <li><span class="date-tag">2026.05</span> 🎉🎉 A paper was accepted by ICML 2026 (Congratulations to Yuejun).</li>
   <li><span class="date-tag">2026.02</span> 🎉🎉 A paper was accepted by DAC 2026.</li>
