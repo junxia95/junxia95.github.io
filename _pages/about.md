@@ -429,7 +429,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 # 🎖 Honors and Awards
 <ul class="timeline-list awards">
   <li><span class="date-tag">2026.07</span> The OpenAI Researcher Program (PI).</li>
-  <li><span class="date-tag">2024.12</span> The NAIRR Pilot Award (PI) and 2026.10</span>  Sustainable Research Pathways (Research Mentor).</li>
+  <li><span class="date-tag">2024.12</span> The NAIRR Pilot Award (PI) and 2026.10 Sustainable Research Pathways (Research Mentor).</li>
   <li><span class="date-tag">2023.03</span> China National Scholarship ($4280)</li>
   <li><span class="date-tag">2023.06</span> Shanghai Outstanding Graduates</li>
   <li><span class="date-tag">2022.06</span> PhD Outstanding Program (ECNU) PI ($4280)</li>
