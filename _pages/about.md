@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Xia is currently at the Hong Kong University of Science and Technology and the ACCESS Chip Center as a Postdoctoral Research Fellow, advised by Prof. Yuan Xie. He has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (advised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (supervised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
+Jun Xia is currently at the Hong Kong University of Science and Technology and the ACCESS Chip Center as a Postdoctoral Research Fellow, advised by Prof. Yuan Xie. He has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (advised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (advised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
 
 His research interests include Heterogeneous On-device Federated Learning and Trustworthy AI. 
 
@@ -421,8 +421,8 @@ His research interests include Heterogeneous On-device Federated Learning and Tr
 # 📖 Educations
 <ul class="timeline-list edu">
   <li><span class="date-tag">2023.09 - 2026.03</span> <b>Postdoc</b>, University of Notre Dame, Department of CSE. <i>Advisor: Prof. Yiyu Shi.</i></li>
-  <li><span class="date-tag">2019.09 - 2023.06</span> <b>PhD</b>, East China Normal University, Department of Software Engineering (A-level subject rating). <i>Supervisor: Prof. Mingsong Chen.</i></li>
-  <li><span class="date-tag">2016.09 - 2019.06</span> <b>Master</b>, Jiangnan University, Department of Internet of Things, Computer Science. <i>Supervisor: Prof. Zhilei Chai.</i></li>
+  <li><span class="date-tag">2019.09 - 2023.06</span> <b>PhD</b>, East China Normal University, Department of Software Engineering (A-level subject rating). <i>Advisor: Prof. Mingsong Chen.</i></li>
+  <li><span class="date-tag">2016.09 - 2019.06</span> <b>Master</b>, Jiangnan University, Department of Internet of Things, Computer Science. <i>Advisor: Prof. Zhilei Chai.</i></li>
 </ul>
 
 # 🎖 Honors and Awards
