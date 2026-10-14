@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Xia is currently at the Hong Kong University of Science and Technology and the ACCESS Chip Center as a Postdoctoral Research Fellow, advised by Prof. Yuan Xie. He has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by Prof. Yiyu Shi). He obtained his Ph.D. degree from East China Normal University in 2023 (advised by Prof. Mingsong Chen). He obtained his M.S. degree and B.S. degree from Jiangnan University (advised by Prof. Zhilei Chai and Prof. Wei Yan from Peking University) and Hainan University in 2019 and 2016, respectively.
+Jun Xia is currently at the Hong Kong University of Science and Technology and the ACCESS Chip Center as a Postdoctoral Research Fellow, advised by [Prof. Yuan Xie](https://eeyuanxie.com/). He has been a Postdoctoral Research Associate at the University of Notre Dame since 2023 (advised by [Prof. Yiyu Shi](https://www3.nd.edu/~scl/)). He obtained his Ph.D. degree from East China Normal University in 2023 (advised by [Prof. Mingsong Chen](https://faculty.ecnu.edu.cn/_s16/cms2search/main.psp?pcode=mschen). He obtained his M.S. degree and B.S. degree from Jiangnan University (advised by [Prof. Zhilei Chai](https://ai.jiangnan.edu.cn/info/1008/2072.htm) and [Prof. Wei Yan](https://cme.suat-sz.edu.cn/info/1012/1477.htm) from Peking University) and Hainan University in 2019 and 2016, respectively.
 
-His research interests include Heterogeneous On-device Federated Learning and Trustworthy AI. 
-
+His research interests lie in the intersection of **Computer Architecture, Embedded Systems, and AI**, with a current focus on **Embodied AI Systems**, **Cloud-Edge-Device Collaborative Computing Architecture**, and **On-Device Medical AI & Edge Healthcare**.
 ---
 
 # 📝 Selected Publications 
