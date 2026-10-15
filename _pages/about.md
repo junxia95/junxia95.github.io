@@ -470,10 +470,14 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <ul class="timeline-list">
-  <li><span class="date-tag">2026 </span> ICLR Reviewer</li>
+  <li><span class="date-tag">2023-6 </span> ICLR\NeurIPS Reviewer</li>
   <li><span class="date-tag">2026 </span> AAAI TPC Member</li>
-  <li><span class="date-tag">2023–2026</span> Conference on Neural Information Processing Systems (NeurIPS) Reviewer</li>
+  
   <li><span class="date-tag">2026 </span> Machine Learning Reviewer</li>
   <li><span class="date-tag">2026 </span> Neurocomputing Reviewer</li>
   <li><span class="date-tag">2026 </span> Pattern Recognition Reviewer</li>
 </ul>
+
+### 📑 National Standards
+*  "国家标准名称", 标准编号 (GB/T XXXX-XXXX), 发布/实施年份 （前四完成人，第一单位）.
+*  "国家标准名称", 标准编号 (GB/T XXXX-XXXX), 发布/实施年份 （前四完成人，第一单位）.
