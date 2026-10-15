@@ -465,6 +465,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
   <li><span class="date-tag">2026</span> IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) TPC Member</li>
   <li><span class="date-tag"></span> IEEE Transactions on Computers (TC) Reviewer</li>
   <li><span class="date-tag"></span> High-Confidence Computing Reviewer </li>
+  <li><span class="date-tag">2026</span> Eurosys (Extra) TPC Member</li>
 </ul>
 
 ### 🤖 Artificial Intelligence & Machine Learning
