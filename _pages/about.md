@@ -479,5 +479,5 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 </ul>
 
 ### 📑 National Standards
-*  "国家标准名称", 标准编号 (GB/T XXXX-XXXX), 发布/实施年份 （前四完成人，第一单位）.
-*  "国家标准名称", 标准编号 (GB/T XXXX-XXXX), 发布/实施年份 （前四完成人，第一单位）.
+*  "基于网络的物模型智能服务信息交互 第1部分：总体技术要求", YD/T 6944.1-2026, 实施年份 2026-09-01 （前四完成人，第一单位）.
+*  "基于网络的物模型智能服务信息交互 第2部分：服务模型", YD/T 6944.2—2026, 实施年份 2026-09-01 （前四完成人，第一单位）.
