@@ -461,7 +461,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 # 📖 Reviews and TPC Members
 ### 💻 Computer Architecture & Hardware
 <ul class="timeline-list">
-  <li><span class="date-tag">2027</span> The Chips to System Conference (DAC) TPC Member</li>
+  <li><span class="date-tag">2027</span> The Design Automation Conference (DAC) TPC Member</li>
   <li><span class="date-tag">2023–2026</span> International Conference on Computer-Aided Design (ICCAD) TPC Member</li>
   <li><span class="date-tag">2026</span> IEEE International Conference on Computer Design (ICCD) TPC Member</li>
   <li><span class="date-tag">2026</span> IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) TPC Member</li>
