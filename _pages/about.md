@@ -178,7 +178,6 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 
 # 🔥 News
 <ul class="timeline-list news">
-  <li><span class="date-tag">2026.10</span> 🎉🎉 Invited as a TPC member at DAC 2027.</li>
   <li><span class="date-tag">2026.10</span> 🎉🎉 A paper was accepted by TMI.</li>
   <li><span class="date-tag">2026.10</span> 🎉🎉 A paper was accepted by BIBM.</li>
   <li><span class="date-tag">2026.09</span> 🎉🎉 Elected as an executive committee member of CCF Embedded Systems Committee (CCF TCEBS).</li>
@@ -461,7 +460,6 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 # 📖 Reviews and TPC Members
 ### 💻 Computer Architecture & Hardware
 <ul class="timeline-list">
-  <li><span class="date-tag">2027</span> The Design Automation Conference (DAC) TPC Member</li>
   <li><span class="date-tag">2023–2026</span> International Conference on Computer-Aided Design (ICCAD) TPC Member</li>
   <li><span class="date-tag">2026</span> IEEE International Conference on Computer Design (ICCD) TPC Member</li>
   <li><span class="date-tag">2026</span> IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) TPC Member</li>
