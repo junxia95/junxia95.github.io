@@ -429,7 +429,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 
 # 🎖 Honors and Awards
 <ul class="timeline-list awards">
-  <li><span class="date-tag">2026.07</span> The OpenAI Researcher Program (PI).</li>
+  <li><span class="date-tag">2026.07</span> The OpenAI Researcher Access Program (PI).</li>
   <li><span class="date-tag">2024.12</span> The NAIRR Pilot Award (PI) and 2026.10 Sustainable Research Pathways (Research Mentor).</li>
   <li><span class="date-tag">2023.03</span> China National Scholarship ($4280)</li>
   <li><span class="date-tag">2023.06</span> Shanghai Outstanding Graduates</li>
@@ -446,7 +446,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 <ul class="timeline-list talks">
     <li><span class="date-tag">2026.11</span> ICCD 2026 Session Chair.</li>
   <li><span class="date-tag">2026.03</span> Invited Talk at Shandong University.</li>
-  <li><span class="date-tag">2024.10</span> ICCAD 2024-2026 Session Chair.</li>
+  <li><span class="date-tag">2024.10</span> ICCAD 2024 Session Chair.</li>
   <li><span class="date-tag">2022.12</span> Invited Talk at East China Normal University.</li>
 </ul>
 
@@ -466,6 +466,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
   <li><span class="date-tag">2026</span> IEEE International Conference on Computer Design (ICCD) TPC Member</li>
   <li><span class="date-tag">2026</span> IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS) TPC Member</li>
   <li><span class="date-tag"></span> IEEE Transactions on Computers (TC) Reviewer</li>
+  <li><span class="date-tag"></span> JSA Reviewer</li>
   <li><span class="date-tag"></span> High-Confidence Computing Reviewer </li>
   <li><span class="date-tag">2026</span> Eurosys (Extra) TPC Member</li>
 </ul>
