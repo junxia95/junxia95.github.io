@@ -178,7 +178,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 
 # 🔥 News
 <ul class="timeline-list news">
-  <li><span class="date-tag">2026.10</span> 🎉🎉 Invited to serve on the Program Committee for ISCA 2027.</li>
+  <li><span class="date-tag">2026.11</span> 🎉🎉 Invited to serve on the Program Committee for ISCA 2027.</li>
   <li><span class="date-tag">2026.10</span> 🎉🎉 Invited to serve on the Program Committee for Design Automation Conference (DAC) 2027.</li>
   <li><span class="date-tag">2026.10</span> 🎉🎉 A paper was accepted by TMI.</li>
   <li><span class="date-tag">2026.10</span> 🎉🎉 A paper was accepted by BIBM.</li>
