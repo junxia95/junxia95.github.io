@@ -178,6 +178,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 
 # 🔥 News
 <ul class="timeline-list news">
+  <li><span class="date-tag">2026.10</span> 🎉🎉 Invited to serve on the Program Committee for ISCA 2027.</li>
   <li><span class="date-tag">2026.10</span> 🎉🎉 Invited to serve on the Program Committee for Design Automation Conference (DAC) 2027.</li>
   <li><span class="date-tag">2026.10</span> 🎉🎉 A paper was accepted by TMI.</li>
   <li><span class="date-tag">2026.10</span> 🎉🎉 A paper was accepted by BIBM.</li>
@@ -461,6 +462,7 @@ His research interests lie in the intersection of **Computer Architecture, Embed
 # 📖 Reviews and TPC Members
 ### 💻 Computer Architecture & Hardware
 <ul class="timeline-list">
+  <li><span class="date-tag">2027</span> International Symposium on Computer Architecture (ISCA) TPC Member</li>
   <li><span class="date-tag">2027</span> Design Automation Conference (DAC) TPC Member</li>
   <li><span class="date-tag">2023–2026</span> International Conference on Computer-Aided Design (ICCAD) TPC Member</li>
   <li><span class="date-tag">2026</span> IEEE International Conference on Computer Design (ICCD) TPC Member</li>
